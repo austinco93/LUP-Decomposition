@@ -4,12 +4,12 @@ This program is designed to calculate the LUP decomposition of a tri-diagonal ma
 ## Usage
 ```
 javac *.java
-java LUPDriver.java [input-file] 
+java LUPDriver [input-file] 
 ```
 
 ## Example
 ```
-java LUPDriver.java compact0.txt
+java LUPDriver compact0.txt
 Compact A:
     0.0000    3.0000    6.0000    9.0000
     1.0000    4.0000    7.0000   10.0000
