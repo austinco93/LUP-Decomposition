@@ -3,7 +3,7 @@ This program is designed to calculate the LUP decomposition of a tri-diagonal ma
 
 ## Usage
 ```
-javac*.java
+javac *.java
 java LUPDriver.java [input-file] 
 ```
 
